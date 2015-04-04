@@ -8,11 +8,6 @@
                 "url": "git://github.com/madnerds/raintpl-forms.git",
                 "type": "git",
                 "reference": "master"
-            },
-            "autoload": {
-                "psr-0" : {
-                    "Weaverryan\\DangerZone" : "src"
-                }
             }
         }
     }
