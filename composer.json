@@ -1,12 +1,12 @@
 {
-  "name": "raintpl-forms",
-  "repo": "madnerds/raintpl-forms",
-  "version": "0.1",
-  "description": "Forms manager for raintpl",
-  "keywords": [
-    "raintpl",
-    "forms"
-  ],
-  "license": "GPL"
+    "name": "madnerds/raintpl-forms",
+    "description": "Forms manager for raintpl and bootstrap",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "madnerds",
+            "email": "maditnerd@gmail.com"
+        }
+    ],
+    "require": {}
 }
-
