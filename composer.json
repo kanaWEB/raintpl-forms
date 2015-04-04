@@ -1,12 +1,19 @@
-{
-    "name": "madnerds/raintpl-forms",
-    "description": "Forms manager for raintpl and bootstrap",
-    "license": "GPL",
-    "authors": [
-        {
-            "name": "madnerds",
-            "email": "maditnerd@gmail.com"
+"repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "madnerds/raintpl-forms",
+            "version": "dev-master",
+            "source": {
+                "url": "git://github.com/madnerds/raintpl-forms.git",
+                "type": "git",
+                "reference": "master"
+            },
+            "autoload": {
+                "psr-0" : {
+                    "Weaverryan\\DangerZone" : "src"
+                }
+            }
         }
-    ],
-    "require": {}
-}
+    }
+],
